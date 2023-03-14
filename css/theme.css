@@ -1,0 +1,32 @@
+/*Site colors
+Pastel Pink: #D5BDD6
+Mint Green: #A9eed1
+Cream: #FFFDD0
+Lavender: #9AA4FF
+White: #ffffff
+*/
+
+/*Browser Style Reset*/
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summarytime, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  
+}
+
+/*Mobile Devices*/
+@media screen and (max-height:450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a{font-size: 18px;}
+}
+
