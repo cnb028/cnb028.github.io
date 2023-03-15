@@ -1,0 +1,55 @@
+/*Site colors
+Pastel Pink: #D5BDD6
+Mint Green: #A9eed1
+Cream: #FFFDD0
+Lavender: #9AA4FF
+White: #ffffff
+*/
+
+.intro {
+    background-color: #A9EED1;
+    border-radius: 15px;
+    text-align: center;
+    width: 95%;
+    color: #9AA4FF;
+    margin: 10px;
+    padding: 10px;
+}
+
+.intro h1{
+    font-size: 30px;
+}
+
+.intro h2 {
+    font-size: 25px;
+}
+
+#selfie {
+    display: flex;
+    justify-content: center;
+}
+
+#selfie img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.social {
+    background-color: #D5BDD6;
+    border-radius: 15px;
+    text-align: center;
+    width: 50%;
+    color: #FFFDD0;
+    margin: 0 25%;
+    padding: 10px;
+}
+
+.social h1{
+    font-size: 30px;
+}
+
+.social span {
+    display: flex;
+    justify-content: center;
+}

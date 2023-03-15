@@ -1,0 +1,39 @@
+/*Site colors
+Pastel Pink: #D5BDD6
+Mint Green: #A9eed1
+Cream: #FFFDD0
+Lavender: #9AA4FF
+White: #ffffff
+*/
+
+.title h1 {
+    font-size: 72px;
+    text-align: center;
+    color:  #FFFDD0;
+}
+
+.html {
+    background-color: #A9EED1;
+    border-radius: 15px;
+    text-align: center;
+    width: 95%;
+    color: #9AA4FF;
+    margin: 10px;
+    padding: 10px;
+}
+
+.html h2{
+    font-size: 48px;
+}
+
+.html a {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #D5BDD6;
+}
+
+.html span a {
+    font-size: 24px;
+    color: #ffffff;
+}
+

@@ -1,0 +1,25 @@
+/*Site colors
+Pastel Pink: #D5BDD6
+Mint Green: #A9eed1
+Cream: #FFFDD0
+Lavender: #9AA4FF
+White: #ffffff
+*/
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #FFFDD0;
+    color:#D5BDD6;
+    text-align: center;
+    border-radius: 15px 15px 0px 0px;
+}
+
+footer h1{
+    font-size: 25px;
+}
+footer h2{
+    font-size: 15px;
+}
