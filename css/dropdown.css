@@ -1,7 +1,9 @@
-/*Navbar Colors
-Navbar: Cream(#FFFDD0)
-Font: Pastel Pink(#D5BDD6)
-Hover: Mint Green(#A9EED1)
+/*Site colors
+Pastel Pink: #D5BDD6
+Mint Green: #A9eed1
+Cream: #FFFDD0
+Lavender: #9AA4FF
+White: #ffffff
 */
 
 /*Navbar Container*/
@@ -9,6 +11,7 @@ Hover: Mint Green(#A9EED1)
     overflow: hidden;
     background-color: #FFFDD0;
     font-family: Franklin Gothic Medium;
+    border-radius: 0 0 15px 15px;
 }
 
 /*Links inside the Navbar*/

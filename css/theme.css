@@ -21,12 +21,9 @@ figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, su
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-  
 }
 
-/*Mobile Devices*/
-@media screen and (max-height:450px) {
-    .sidenav {padding-top: 15px;}
-    .sidenav a{font-size: 18px;}
+body {
+    background-color: #9AA4FF;
 }
 
